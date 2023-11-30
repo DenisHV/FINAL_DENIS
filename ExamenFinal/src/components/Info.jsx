@@ -1,10 +1,11 @@
 import React from 'react'
-import "./Styles/Info"
+import "./Styles/Info.css"
+
 function Info() {
   return (
-    <div>
+    <div className='Info'>
         <p>Exercicios</p>
-        
+
     </div>
   )
 }

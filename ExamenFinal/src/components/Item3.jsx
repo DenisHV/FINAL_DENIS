@@ -1,10 +1,9 @@
 import React from 'react'
-import Imagen1 from './Imagen1'
-import Texto1 from './Texto1'
-import Texto2 from './Texto2'
 import "./Styles/Item1.css"
-
-function Item1() {
+import Imagen1 from './Imagen1'
+import Texto2 from './Texto2'
+import Texto1 from './Texto1'
+function Item3() {
   return (
     <div className='Item1'>
         <Imagen1/>
@@ -16,4 +15,4 @@ function Item1() {
   )
 }
 
-export default Item1
+export default Item3
